@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://jusimezapoce.pages.dev/sitemap.xml
